@@ -1,2 +1,6 @@
 My phone number is  029999999
+<<<<<<< HEAD
 I'm Com'Eng
+=======
+Mye email is prekarn_t@rbac.ac.th
+>>>>>>> 4db2c78053e4cec136168c4e264878d1725bfc2c
